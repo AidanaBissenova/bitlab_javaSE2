@@ -58,6 +58,7 @@ public class Main {
                 break;
             }
         }
+        System.out.println(" ");
     }
     public static void saveStudents(ArrayList<Student> students){
         try{
